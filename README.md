@@ -1,5 +1,7 @@
 # hi :)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ShawnMayol" alt="ShawnMayol" /> </p>
+
 <!--
 **ShawnMayol/ShawnMayol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
