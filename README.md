@@ -1,14 +1,18 @@
-# Shawn Jurgen Mayol
-3rd Year Computer Science Student @ USC
+# Hi! I'm Shawn👋 
+🎓 3rd Year Computer Science Student @ USC
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shawnmayol) 
 [![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/mayolshawn) 
 
-## Spotify Playing
+## About Me ✨
+- 🌱 Currently working on my thesis: Automated Malaria Detection
+- 🌐 Studying Hiragana
+- 💻 Passionate about full-stack development
+- 🤖 Interested in AI/Machine Learning
+- 🚀 Excited to work on innovative projects and collaborate with others
+- ❤️ Astrology, iced matcha lattes, Labubu keychains, female musicians like Clairo and Laufey, vinyl records, vintage clothing, therapy, female authors like Sally Rooney, baggy jeans, wired headphones, tote bags, and skin care, among others🥀 (satire)
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31dogaxaqrchzs5lc2y2dzcs47dm&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/31dogaxaqrchzs5lc2y2dzcs47dm)
-
-## Technologies
+## 💻 Technologies
 
 ![HTML5](https://img.icons8.com/color/30/html-5.png)
 ![CSS3](https://img.icons8.com/color/30/css3.png)
@@ -29,10 +33,14 @@
 ![SQL](https://img.icons8.com/color/30/sql.png)
 ![Vercel](https://img.icons8.com/color/30/vercel.png)
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 [![Shawn Mayol Github Stats](https://github-readme-stats.vercel.app/api?username=ShawnMayol&show_icons=true&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShawnMayol&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+## 🎵 Spotify Playing
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31dogaxaqrchzs5lc2y2dzcs47dm&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/31dogaxaqrchzs5lc2y2dzcs47dm)
 
 ---
 
