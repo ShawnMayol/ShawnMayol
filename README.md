@@ -1,5 +1,5 @@
 # Hi! I'm Shawn👋 
-🎓 3rd Year Computer Science Student @ USC
+3rd Year Computer Science Student @ USC
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shawnmayol) 
 [![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/mayolshawn) 
