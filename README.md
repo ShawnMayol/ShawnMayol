@@ -6,7 +6,7 @@
 
 ## About Me ✨
 - 🌱 Currently working on my thesis: Automated Malaria Detection
-- 🌐 Studying Hiragana
+- 🌐 Learning Hiragana
 - 💻 Passionate about full-stack development
 - 🤖 Interested in AI/Machine Learning
 - 🚀 Excited to work on innovative projects and collaborate with others
