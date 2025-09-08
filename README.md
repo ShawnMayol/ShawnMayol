@@ -10,7 +10,6 @@
 - 💻 Passionate about full-stack development
 - 🤖 Interested in AI/Machine Learning
 - 🚀 Excited to work on innovative projects and collaborate with others
-- ❤️ Astrology, iced matcha lattes, Labubu keychains, female musicians like Clairo and Laufey, vinyl records, vintage clothing, therapy, female authors like Sally Rooney, baggy jeans, wired headphones, tote bags, and skin care, among others🥀 (satire)
 
 ## 💻 Technologies
 
