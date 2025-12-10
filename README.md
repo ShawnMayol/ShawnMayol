@@ -31,7 +31,7 @@
 ![MySQL](https://img.icons8.com/color/30/mysql-logo.png)
 ![SQL](https://img.icons8.com/color/30/sql.png)
 ![Vercel](https://img.icons8.com/color/30/vercel.png)
-
+<!-- 
 ## 📊 GitHub Stats
 
 [![Shawn Mayol Github Stats](https://github-readme-stats.vercel.app/api?username=ShawnMayol&show_icons=true&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
@@ -40,7 +40,7 @@
 ## 🎵 Spotify Playing
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31dogaxaqrchzs5lc2y2dzcs47dm&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/31dogaxaqrchzs5lc2y2dzcs47dm)
-
+-->
 ---
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ShawnMayol" alt="ShawnMayol" /> </p>
